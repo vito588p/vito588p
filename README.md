@@ -1,5 +1,5 @@
 ### Hi there 👋
-一位工程師，身兼鼓手與行銷顧問，喜歡各式音樂，包含爵士、電子、搖滾、迷幻樂等。
+一位工程師，身兼鼓手與行銷顧問，喜歡各式音樂，包含爵士、電子、迷幻、搖滾樂等。
 
 <!--
 **vito588p/vito588p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
