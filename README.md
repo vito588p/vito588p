@@ -10,7 +10,7 @@ Also a lover of music, movies, and photography.
 
 [Landscape Photography](https://www.instagram.com/vito588p)
 
-IThome 鐵人賽：
+IThome 鐵人賽 2023：
 
 [Rails 開發，每日一套件介紹！ 系列](https://ithelp.ithome.com.tw/users/20161892/ironman/6521)
 
