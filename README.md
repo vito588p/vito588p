@@ -1,7 +1,7 @@
 ### Hi, I'm Weber 🔰
-A Ruby on Rails engineer, drummer, and marketing consultant with a deep passion for technology.
+A Ruby on Rails developer, drummer, and marketing consultant with a deep passion for technology.
 
-Also a lover of music, movies, and photography.
+I am also a lover of music, movies, and photography.
 
 
 [Dev Blog @ Medium](https://medium.com/@weberindeed)
@@ -17,7 +17,7 @@ IThome 鐵人賽 2023：
 [LELECOCODE 每一天 - 30 Days of JavaScript](https://ithelp.ithome.com.tw/users/20161892/ironman/6530)
 
 
-Develop • Marketing • Landscape • Music • Movie
+Develop • Marketing • Landscape • Music
 
 <!--
 **vito588p/vito588p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
